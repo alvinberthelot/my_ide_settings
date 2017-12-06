@@ -1,0 +1,23 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Monokai-Cobalt",
+  "editor.detectIndentation": true,
+  "editor.fontSize": 14,
+  "editor.formatOnSave": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "window.zoomLevel": -1,
+  "vsicons.projectDetection.autoReload": true,
+  "editor.minimap.enabled": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": false,
+  "rust.rustup": {
+    "toolchain": "stable-x86_64-apple-darwin",
+    "nightlyToolchain": "nightly-x86_64-apple-darwin"
+  },
+  "rust.mode": "legacy",
+  "workbench.startupEditor": "newUntitledFile"
+}
